@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-tonexample-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/tonexample.loader.js",
+    "Build/tonexample.framework.js",
+    "Build/tonexample.data",
+    "Build/tonexample.wasm",
     "TemplateData/style.css"
 
 ];

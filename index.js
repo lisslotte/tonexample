@@ -36,11 +36,11 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/Build.loader.js";
+  var loaderUrl = buildUrl + "/tonexample.loader.js";
   var config = {
-    dataUrl: buildUrl + "/Build.data",
-    frameworkUrl: buildUrl + "/Build.framework.js",
-    codeUrl: buildUrl + "/Build.wasm",
+    dataUrl: buildUrl + "/tonexample.data",
+    frameworkUrl: buildUrl + "/tonexample.framework.js",
+    codeUrl: buildUrl + "/tonexample.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "tonexample",
